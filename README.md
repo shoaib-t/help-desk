@@ -9,12 +9,12 @@ This repo contains troubleshooting steps, solutions, and scripts for common issu
 - [Windows Troubleshooting](./windows-troubleshooting/)
 
 ## Repository Structure
-
+'''
 /help-desk-repo
 ├── mac-troubleshooting/
 ├── windows-troubleshooting/
 └── README.md
-
+'''
 ## Usage
 
 I update this repo regularly with:
