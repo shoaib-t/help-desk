@@ -10,7 +10,7 @@ This repo contains troubleshooting steps, solutions, and scripts for common issu
 
 ## Repository Structure
 ```
-/help-desk-repo
+/help-desk
 ├── mac-troubleshooting/
 ├── windows-troubleshooting/
 └── README.md
